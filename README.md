@@ -23,4 +23,16 @@ Aplikasi ini menggunakan state management Getx dan Hive sebagai database dengan 
 - flutter_slidable
 - hive_generator
 
+## Screenshots
+![App Screenshot](https://user-images.githubusercontent.com/76081296/177676192-b61476fb-a6db-49aa-ae16-f1355dc60c31.png)
+![App Screenshot](https://user-images.githubusercontent.com/76081296/177676200-e48952ab-525f-4575-b4af-e62bd39687a0.png)
+![App Screenshot](https://user-images.githubusercontent.com/76081296/177676205-925fb9c8-54ab-408e-8ce7-48afbb0d63de.png)
+
+
+
+
+
+
+
+
 <!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
