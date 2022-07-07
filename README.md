@@ -1,16 +1,26 @@
-# belajar_hive
+<div align="center">
+      <h1> <img src="https://15logo.net/wp-content/uploads/2017/03/NoteBook-800x800.jpg" width="80px"><br/>note book </h1>
+     </div>
 
-A new Flutter project.
 
-## Getting Started
+# Description
+Aplikasi pencatat/review buku
 
-This project is a starting point for a Flutter application.
+# Features
+Aplikasi ini menggunakan state management Getx dan Hive sebagai database dengan simple CRUD
 
-A few resources to get you started if this is your first Flutter project:
+# Tech Used
+ ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- get
+- Hive
+- image_picker
+- lottie
+- flutter_hive
+- build_runner
+- flutter_slidable
+- hive_generator
+
+<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
